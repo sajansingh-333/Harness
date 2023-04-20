@@ -1,0 +1,25 @@
+what is harness?
+https://developer.harness.io/docs/getting-started/harness-ui-overview
+Harness is a comprehensive CI/CD platform that streamlines software delivery for modern enterprises. It provides a powerful and user-friendly interface for managing software releases, deployments, and rollbacks.
+
+You can interact with the Harness platform through the Harness UI. 
+It is designed to be intuitive and easy to use, while also providing robust features and capabilities for managing software releases.
+
+Organisation:
+What is an organization?
+Harness organizations (orgs) allow you to group projects that are related and share the same goals. 
+For example, all projects for a business unit or division.
+
+You can create multiple organizations within an account. 
+Any resource that you create within the organization's scope is available for use in all the projects created within this organization.
+
+
+
+Projects:
+A Harness project is a group of Harness modules, their pipelines, and resources.
+For example, a project might have a Harness CI pipeline to build code and push an image and a Harness CD pipeline to deploy that image to a cloud platform.
+
+
+
+For more information, see
+URL: https://developer.harness.io/docs/getting-started/learn-harness-key-concepts/
